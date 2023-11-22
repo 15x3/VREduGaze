@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.713demo.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\hzsf\\7-13 demo\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "7-13 demo [Testing]"
+        }
+      }
+    }
+  ]
+}
